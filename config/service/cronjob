@@ -1,0 +1,2 @@
+RAILS_ENV=production
+@daily cd /home/mastodon/mastodon-pics && /home/mastodon/.rbenv/shims/bundle exec rake mastodon:daily > /dev/null
